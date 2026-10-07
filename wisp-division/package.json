@@ -1,0 +1,2 @@
+{ "name": "wisp-division", "version": "4.0.0", "description": "Esports organisation site with sign up / login, member payouts, trials and a full admin dashboard. Zero dependencies.",
+  "main": "server.js", "scripts": { "start": "node server.js", "test": "node test.js" }, "engines": { "node": ">=18" }, "license": "MIT" }
