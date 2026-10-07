@@ -1,0 +1,19 @@
+{
+ "u0": {
+  "id": "u0",
+  "name": "Admin",
+  "email": "admin@wisp.local",
+  "role": "admin",
+  "pw": "979258074d7a2f3e965a050b84611d1f:24027f39319b552dd52da58de28be5373eb2223e1bf4e864889888af4fffb469",
+  "created": 1791403424042,
+  "adminId": "7000524978"
+ },
+ "ua8ec5c5c60": {
+  "id": "ua8ec5c5c60",
+  "name": "cw yogi",
+  "email": "yogeshkumarthakur940@gmail.com",
+  "role": "member",
+  "pw": "3abc8ae0d1d8621d13f5739f891626e3:307d8525fd164c8497ff2c1c0f325b6a28da08a69a2d0469b907bd72715773bb",
+  "created": 1791403484934
+ }
+}

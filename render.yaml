@@ -1,0 +1,14 @@
+# One-click deploy on Render: New + > Blueprint > pick this repo. Render will ask you for ADMIN_ID and ADMIN_KEY.
+services:
+  - type: web
+    name: wisp-division
+    runtime: node
+    plan: free
+    startCommand: node server.js
+    envVars:
+      - key: ADMIN_ID
+        sync: false
+      - key: ADMIN_KEY
+        sync: false
+      - key: COOKIE_SECURE
+        value: "1"
