@@ -1,0 +1,15 @@
+WISP DIVISION - START HERE (no code editing needed)
+
+1. Upload everything in this folder to your GitHub repo (replace the old files).
+2. Go to render.com -> sign in with GitHub -> New + -> Blueprint -> pick your repo -> Apply.
+3. Render asks for 2 values:
+     ADMIN_ID  = the admin ID you want (for example 7000524978)
+     ADMIN_KEY = a NEW strong password you choose
+4. Wait 2-3 minutes. Open the link that ends in .onrender.com - that is your website.
+5. Click Login, type ADMIN_ID and ADMIN_KEY. The Admin dashboard opens. Edit everything there.
+
+Notes
+- GitHub Pages (github.io) cannot run this site. Use the Render link.
+- Free Render plan: first visit after idle is slow, and saved data is erased on restart.
+- A custom domain (like wispdivision.in) is optional. Buy it later and add it in Render > Settings > Custom Domains.
+- Never put your real password in any file you upload to GitHub.
